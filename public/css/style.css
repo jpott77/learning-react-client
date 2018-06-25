@@ -9,15 +9,15 @@ HomePage
 }
 
 .reactiv-logo-header img{
-    height:7%;
-    width:7%;
+    max-height:7%;
+    max-width:7%;
     position:relative;
     float:left;
 }
 
 .world-cup-logo-header img{
-    height:7%;
-    width:7%;
+    max-height:7%;
+    max-width:3%;
     position:relative;
     float:right;
 }
@@ -33,6 +33,9 @@ HomePage
     margin:10px;
   }
 
+.appTitle{
+    padding-top: 280px;
+}
 
 /***
 Login Page

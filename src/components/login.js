@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import {Button} from 'react-materialize';
 import {userActions} from '../actions/userActions';
-import News from './news';
-import Header from './header';
+import News from './News';
+import Header from './Header';
 
 class Login extends Component {
 
